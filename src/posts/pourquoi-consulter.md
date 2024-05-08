@@ -12,4 +12,4 @@ Sentiment de mal être répété, voir chronique, sans possibilité d’y mettre
 
 La démarche de consulter n’est jamais facile. Elle est courageuse, car elle suppose de reconnaitre qu’un problème ou une souffrance existe, que l’entourage lui-même peut en être impacté, et qu’il devient difficile d’y faire face. Accepter de reconnaitre ses limites, de demander de l’aide et d’engager un travail avec un professionnel est un premier pas important vers le changement.
 
-[E﻿n savoir plus](/blog/psychothérapies)
+[E﻿n savoir plus](/posts/psychothérapies)
