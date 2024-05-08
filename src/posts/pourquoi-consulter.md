@@ -4,7 +4,8 @@ description: Pourquoi consulter un psychologue
 author: Rachel
 date: 2024-05-08T13:41:07.422Z
 tags:
-  - from
+  - Psychologue
+  - Psychothérapie
 ---
 La souffrance, les difficultés, ne sont pas un signe de faiblesse, mais la marque de notre humanité commune.
 
