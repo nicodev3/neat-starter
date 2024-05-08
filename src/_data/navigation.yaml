@@ -1,10 +1,12 @@
 ---
 items:
-  - text: Menu One
+  - text: Psychothérapies
+    url: "/posts/psychothérapies"
+  - text: Pourquoi consulter ?
     url: "#"
-  - text: Menu Two
+  - text: Le cabinet
     url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: Supervisions
     url: "/blog"
+  - text: A propos
+    url: "/posts/a-propos"

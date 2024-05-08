@@ -1,14 +1,20 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
+  - title: Psychothérapies
+    url: "/posts/psychothérapies"
+    desc: Connaître les différentes approches thérapeutiques.
+  - title: Pourquoi consulter ?
     url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
+    desc: Pourquoi consulter un psychologue ?
+  - title: Le cabinet
     url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
+    desc: Découvrez le cabinet de psychologie.
+  - title: Supervisions
     url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+    desc: Supervisions pour les psychologues.
+  - title: Formations
+    url: "https://tailwindcss.com/"
+    desc: Formations pour les psychologues.
+  - title: A propos
+    url: "/posts/a-propos"
+    desc: Formations pour les psychologues.
