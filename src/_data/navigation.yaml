@@ -1,12 +1,11 @@
----
 items:
   - text: Psychothérapies
-    url: "/posts/psychothérapies"
+    url: /posts/psychothérapies
   - text: Pourquoi consulter ?
-    url: "#"
+    url: /posts/pourquoi-consulter
   - text: Le cabinet
     url: "#"
   - text: Supervisions
-    url: "/blog"
+    url: /blog
   - text: A propos
-    url: "/posts/a-propos"
+    url: /posts/a-propos
